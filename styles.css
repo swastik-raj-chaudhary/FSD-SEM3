@@ -1,0 +1,41 @@
+*body{
+    background-color: white;
+}
+
+#second{
+    height: 400px;
+    width: 500px;
+    justify-content: center;
+    margin: 10px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    margin-left:450px ;
+    margin-right: 200px;
+    border:10px;
+    border-radius: 40px;
+    background-color: yellow;
+}
+p{
+  
+    text-align: center;
+    font-family:Arial;
+
+}
+#second{
+    text-align: center;
+
+}
+#area{
+    width: 250px;;
+}
+#area1{
+     width: 250px;;
+
+}
+button {
+    margin:40px;
+  width: 140px;
+  height: 40px;
+  border-radius: 8px;
+  
+}
